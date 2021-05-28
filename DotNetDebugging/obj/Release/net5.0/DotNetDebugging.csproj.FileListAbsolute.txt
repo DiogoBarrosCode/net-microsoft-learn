@@ -1,0 +1,16 @@
+C:\Users\Diogo\Desktop\Dev\workspace\net-microsoft-learn\DotNetDebugging\bin\Release\net5.0\DotNetDebugging.exe
+C:\Users\Diogo\Desktop\Dev\workspace\net-microsoft-learn\DotNetDebugging\bin\Release\net5.0\DotNetDebugging.deps.json
+C:\Users\Diogo\Desktop\Dev\workspace\net-microsoft-learn\DotNetDebugging\bin\Release\net5.0\DotNetDebugging.runtimeconfig.json
+C:\Users\Diogo\Desktop\Dev\workspace\net-microsoft-learn\DotNetDebugging\bin\Release\net5.0\DotNetDebugging.runtimeconfig.dev.json
+C:\Users\Diogo\Desktop\Dev\workspace\net-microsoft-learn\DotNetDebugging\bin\Release\net5.0\DotNetDebugging.dll
+C:\Users\Diogo\Desktop\Dev\workspace\net-microsoft-learn\DotNetDebugging\bin\Release\net5.0\ref\DotNetDebugging.dll
+C:\Users\Diogo\Desktop\Dev\workspace\net-microsoft-learn\DotNetDebugging\bin\Release\net5.0\DotNetDebugging.pdb
+C:\Users\Diogo\Desktop\Dev\workspace\net-microsoft-learn\DotNetDebugging\obj\Release\net5.0\DotNetDebugging.csprojAssemblyReference.cache
+C:\Users\Diogo\Desktop\Dev\workspace\net-microsoft-learn\DotNetDebugging\obj\Release\net5.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diogo\Desktop\Dev\workspace\net-microsoft-learn\DotNetDebugging\obj\Release\net5.0\DotNetDebugging.AssemblyInfoInputs.cache
+C:\Users\Diogo\Desktop\Dev\workspace\net-microsoft-learn\DotNetDebugging\obj\Release\net5.0\DotNetDebugging.AssemblyInfo.cs
+C:\Users\Diogo\Desktop\Dev\workspace\net-microsoft-learn\DotNetDebugging\obj\Release\net5.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\Desktop\Dev\workspace\net-microsoft-learn\DotNetDebugging\obj\Release\net5.0\DotNetDebugging.dll
+C:\Users\Diogo\Desktop\Dev\workspace\net-microsoft-learn\DotNetDebugging\obj\Release\net5.0\ref\DotNetDebugging.dll
+C:\Users\Diogo\Desktop\Dev\workspace\net-microsoft-learn\DotNetDebugging\obj\Release\net5.0\DotNetDebugging.pdb
+C:\Users\Diogo\Desktop\Dev\workspace\net-microsoft-learn\DotNetDebugging\obj\Release\net5.0\DotNetDebugging.genruntimeconfig.cache
