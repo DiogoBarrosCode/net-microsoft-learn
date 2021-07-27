@@ -1,0 +1,16 @@
+C:\Users\Diogo\Desktop\Dev\workspace\net-microsoft-learn\DotNetFileSystems\bin\Debug\net5.0\DotNetFileSystems.exe
+C:\Users\Diogo\Desktop\Dev\workspace\net-microsoft-learn\DotNetFileSystems\bin\Debug\net5.0\DotNetFileSystems.deps.json
+C:\Users\Diogo\Desktop\Dev\workspace\net-microsoft-learn\DotNetFileSystems\bin\Debug\net5.0\DotNetFileSystems.runtimeconfig.json
+C:\Users\Diogo\Desktop\Dev\workspace\net-microsoft-learn\DotNetFileSystems\bin\Debug\net5.0\DotNetFileSystems.runtimeconfig.dev.json
+C:\Users\Diogo\Desktop\Dev\workspace\net-microsoft-learn\DotNetFileSystems\bin\Debug\net5.0\DotNetFileSystems.dll
+C:\Users\Diogo\Desktop\Dev\workspace\net-microsoft-learn\DotNetFileSystems\bin\Debug\net5.0\ref\DotNetFileSystems.dll
+C:\Users\Diogo\Desktop\Dev\workspace\net-microsoft-learn\DotNetFileSystems\bin\Debug\net5.0\DotNetFileSystems.pdb
+C:\Users\Diogo\Desktop\Dev\workspace\net-microsoft-learn\DotNetFileSystems\obj\Debug\net5.0\DotNetFileSystems.csprojAssemblyReference.cache
+C:\Users\Diogo\Desktop\Dev\workspace\net-microsoft-learn\DotNetFileSystems\obj\Debug\net5.0\DotNetFileSystems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diogo\Desktop\Dev\workspace\net-microsoft-learn\DotNetFileSystems\obj\Debug\net5.0\DotNetFileSystems.AssemblyInfoInputs.cache
+C:\Users\Diogo\Desktop\Dev\workspace\net-microsoft-learn\DotNetFileSystems\obj\Debug\net5.0\DotNetFileSystems.AssemblyInfo.cs
+C:\Users\Diogo\Desktop\Dev\workspace\net-microsoft-learn\DotNetFileSystems\obj\Debug\net5.0\DotNetFileSystems.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\Desktop\Dev\workspace\net-microsoft-learn\DotNetFileSystems\obj\Debug\net5.0\DotNetFileSystems.dll
+C:\Users\Diogo\Desktop\Dev\workspace\net-microsoft-learn\DotNetFileSystems\obj\Debug\net5.0\ref\DotNetFileSystems.dll
+C:\Users\Diogo\Desktop\Dev\workspace\net-microsoft-learn\DotNetFileSystems\obj\Debug\net5.0\DotNetFileSystems.pdb
+C:\Users\Diogo\Desktop\Dev\workspace\net-microsoft-learn\DotNetFileSystems\obj\Debug\net5.0\DotNetFileSystems.genruntimeconfig.cache
